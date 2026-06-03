@@ -1,5 +1,5 @@
 # MandelbrotSheep
-A full on Mandelbrot Set Renderer written in GLSL that works on Minecraft sheep. You can use it by downloading from Github and treating it as a regular resourcepack. Compatible with other resourcepacks as long as it's on top.
+A full on Mandelbrot Set Renderer written in GLSL that works on Minecraft sheep. You can use it by cloning directly into the resourcepacks folder and treating it as a regular resourcepack. Compatible with other resourcepacks as long as it's on top.
 
 ## Images
 <img width="400" height="225" alt="zoom" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazV0dGQyN2czamVlNjZzdTc5bWRuM2Q2Mzduczd5dm93YTE5cTMxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2NO152rhpMQqmb5SE/giphy.gif" />
